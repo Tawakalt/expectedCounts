@@ -1,0 +1,25 @@
+{
+  "name": "expectedCounts",
+  "version": "1.0.0",
+  "description": "Basic JavaScript project for demonstration of programming concepts",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tawakalt/expectedCounts.git"
+  },
+  "author": "Olaniyi Tawakalt",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/Tawakalt/expectedCounts/issues"
+  },
+  "homepage": "https://github.com/Tawakalt/expectedCounts#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
